@@ -1,12 +1,12 @@
 import styled from '@emotion/styled';
 
 export const Form = styled.form`
-  border: 5px solid #2a2a2a;
+  border: 2px solid #2a2a2a;
   border-radius: 5px;
   width: 500px;
   height: 275px;
   margin: auto;
-  background-color: aqua;
+  background-color: aquamarine;
   margin-bottom: 20px;
 `;
 
@@ -26,7 +26,7 @@ export const Input = styled.input`
   width: 250px;
   height: 25px;
   color: #2a2a2a;
-  background-color: aqua;
+  background-color: aquamarine;
   border: 2px solid #2a2a2a;
   margin-left: 73px;
 `;

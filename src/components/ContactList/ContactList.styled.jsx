@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const ContactContainer = styled.ul`
-  width: 455px;
+  width: 500px;
   height: 275px;
   margin: auto;
   margin-bottom: 20px;
@@ -11,7 +11,7 @@ export const ListItem = styled.li`
   display: flex;
   align-items: center;
   border: 2px solid #2a2a2a;
-  background-color: aqua;
+  background-color: aquamarine;
   justify-content: space-between;
   padding: 0px 15px;
 `;

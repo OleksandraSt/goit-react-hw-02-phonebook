@@ -4,6 +4,9 @@ export const PhonebookContainer = styled.div`
   margin: auto;
   justify-content: center;
   text-align: center;
+  border: 2px solid #2a2a2a;
+  background-color: yellow;
+  width: 700px;
 `;
 
 export const PhoneBook = styled.h1`
