@@ -2,7 +2,6 @@ import styled from '@emotion/styled';
 
 export const ContactContainer = styled.ul`
   width: 500px;
-  height: 275px;
   margin: auto auto 20px;
   padding: 0;
 `;

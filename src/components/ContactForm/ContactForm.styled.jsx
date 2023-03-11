@@ -6,6 +6,7 @@ export const Form = styled.form`
   width: 500px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
   background-color: #e4eba1;
 `;
 
@@ -41,4 +42,5 @@ export const ButtonAdd = styled.button`
   border-radius: 3px;
   font-size: 16px;
   font-weight: 700;
+  margin-bottom: 30px;
 `;

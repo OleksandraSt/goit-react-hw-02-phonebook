@@ -18,7 +18,7 @@ export const PhoneBook = styled.h1`
 
 export const ContactsTitle = styled.h2`
   color: #2a2a2a;
-  font-size: 35px;
+  font-size: 28px;
   margin: 0;
   margin-bottom: 20px;
   text-transform: uppercase;
