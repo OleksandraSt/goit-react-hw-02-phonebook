@@ -60,9 +60,9 @@ class App extends Component {
       <PhonebookContainer>
         <PhoneBook>Phonebook</PhoneBook>
         <ContactForm onSubmit={this.addContact} />
-        <Filter value={filter} onChange={this.changeFilter} />
-
         <ContactsTitle>Contacts</ContactsTitle>
+        <Filter value={filter} onChange={this.changeFilter} />
+        
         {contacts.length > 0 ? (
           <ContactList
             contacts={filterContacts}
